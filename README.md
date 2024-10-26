@@ -1,1 +1,1 @@
-# Redjohn CLI
+# RedJoin CLI
